@@ -3,6 +3,16 @@
     padding-top: 5px;
 }
 
+.fab {
+    color: black;
+}
+
+.profile-pic {
+    max-width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
 
 /* sticky footer */
 body {
